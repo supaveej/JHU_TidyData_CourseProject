@@ -23,7 +23,7 @@ This is the main script used to generate the tidy data set in this analysis. The
 + cleans update environment variables
 
 ### projUtils.R
-This script contains all of the functions utilized by projGettingAndCleaningData.R. This script has the following functions, which are detailed further down in this document:
+This script contains all of the functions utilized by run_Analysis.R. This script has the following functions, which are detailed further down in this document:
 + importTable(filepath)
 + getFeatureColumnNames()
 + getActivityLabels(table)
