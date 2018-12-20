@@ -3,6 +3,12 @@
 
 ## Overview
 
+### Orignal Data Source and Information
+**Data:** [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+
+**ReadMe File:** [readme.txt](readme.txt)
+
+
 ### projGettingAndCleaningData.R
 
 This is the main script used to generate the tidy data set in this analysis. The script performs the following tasks:
