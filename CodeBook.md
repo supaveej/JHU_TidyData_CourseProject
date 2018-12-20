@@ -9,7 +9,7 @@
 **ReadMe File:** [README.txt](README.txt)
 
 
-### projGettingAndCleaningData.R
+### run_Analysis.R
 
 This is the main script used to generate the tidy data set in this analysis. The script performs the following tasks:
 + sources projUtils.R file
