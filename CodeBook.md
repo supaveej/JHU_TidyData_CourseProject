@@ -6,7 +6,7 @@
 ### Orignal Data Source and Information
 **Data:** [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-**ReadMe File:** [readme.txt](readme.txt)
+**ReadMe File:** [README.txt](README.txt)
 
 
 ### projGettingAndCleaningData.R
