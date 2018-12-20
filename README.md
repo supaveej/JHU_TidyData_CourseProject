@@ -4,13 +4,13 @@ Coursera JHU Data Science Specialization: Getting and Cleaning Data in R (Course
 ## Overview
 To reproduce the tidy data set:
 1. Download the following files into your working directory:
-    1. projGettingAndCleaningData.R
+    1. run_Analysis.R
     1. projUtils.R
 2. Run the main script: projGettingAndCleaningData.R
 
 **Please see the [CodeBook](CodeBook.md) for more details on the scripts and tidy data produced.**
 
-### projGettingAndCleaningData.R
+### run_Analysis.R
 This is the main script used to generate the tidy data set in this analysis. The script performs the following tasks:
 + sources projUtils.R file
 + downloads the zip files and unzip the files into your working directory
