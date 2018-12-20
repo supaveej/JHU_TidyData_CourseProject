@@ -236,9 +236,8 @@ updatedColumnNames <- function(columnNames){
 ### projUtils :: createAvgByActivityandSubject(table)
 
 This function does the following:
-* input: table for accelerometer data
-* creates a tidy data set with the average of each variable
-* for each activity and subject
++ input: table for accelerometer data
++ creates a tidy data set with the average of each variable by each activity and subject
 
 
 ```R
