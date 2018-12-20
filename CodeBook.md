@@ -65,7 +65,7 @@ rm(list=ls()[!ls() %in% c("accelerometerData","avgAccelerometerData")])
 
 ### projUtils.R
 
-This script contains all of the functions utilized by projGettingAndCleaningData.R. This script has the following functions, which are detailed further down in this document:
+This script contains all of the functions utilized by run_Analysis.R. This script has the following functions, which are detailed further down in this document:
 + importTable(filepath)
 + getFeatureColumnNames()
 + getActivityLabels(table)
